@@ -21,6 +21,6 @@
     padding: 20px 0;
 }
 
-.tBody:nth-child(even){
+.tBody tr:nth-child(even){
     background: gainsboro;
 }
