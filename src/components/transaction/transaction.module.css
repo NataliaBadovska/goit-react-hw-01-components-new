@@ -21,3 +21,6 @@
     padding: 20px 0;
 }
 
+.tBody:nth-child(even){
+    background: gainsboro;
+}
